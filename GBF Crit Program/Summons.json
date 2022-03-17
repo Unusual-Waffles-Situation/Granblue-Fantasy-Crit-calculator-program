@@ -1,0 +1,54 @@
+{
+	"Magna": [
+		{
+			"Name": "Tiamat Omega",
+			"Element": "Wind"
+		},
+		{
+			"Name": "Leviathan Omega",
+			"Element": "Water"
+		},
+		{
+			"Name": "Yggdrasil Omega",
+			"Element": "Earth"
+		},
+		{
+			"Name": "Colossus Omega",
+			"Element": "Fire"
+		},
+		{
+			"Name": "Celeste Omega",
+			"Element": "Dark"
+		},
+		{
+			"Name": "Luminera Omega",
+			"Element": "Light"
+		}
+	],
+	"Primal": [
+		{
+			"Name": "Zephyrus",
+			"Element": "Wind"
+		},
+		{
+			"Name": "Varuna",
+			"Element": "Water"
+		},
+		{
+			"Name": "Titan",
+			"Element": "Earth"
+		},
+		{
+			"Name": "Agni",
+			"Element": "Fire"
+		},
+		{
+			"Name": "Hades",
+			"Element": "Dark"
+		},
+		{
+			"Name": "Zeus",
+			"Element": "Light"
+		}
+	]
+}

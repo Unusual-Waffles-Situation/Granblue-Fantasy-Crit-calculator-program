@@ -1,0 +1,21 @@
+Decimal value of 1% of Big crit: 0.67
+Decimal value of 1% of Med crit: 0.434
+
+Decimal value of ULB Magna aura (140%): 14
+Decimal value of ULB Primal aura (150%): 15
+Decimal value of double ULB Magna aura (280%): 28
+Decimal value of double ULB Primal aura (300%): 30
+
+With Med crit, using only one ULB summon, substract 4.9
+With Med crit, using two ULB summons, substract 9.8
+
+Some crit values:
+Big crit with skill level 10 using single summon = 20.7
+Big crit with skill level 10 using double summon = 34.7
+Big crit with skill level 15 using single summon = 24
+Big crit with skill level 15 using double summon = 38
+
+Med crit with skill level 10 using single summon = 13.44
+Med crit with skill level 10 using double summon = 22.54
+Med crit with skill level 15 using single summon = 15.61
+Med crit with skill level 15 using double summon = 24.71

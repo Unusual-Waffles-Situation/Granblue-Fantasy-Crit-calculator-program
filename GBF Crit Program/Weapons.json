@@ -1,0 +1,90 @@
+{
+	"Magna": [
+		{
+			"Name": "Ancient Esche Saks",
+			"Crit type": "Med",
+			"Element": "Fire",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Avatar's gun",
+			"Crit type": "Med",
+			"Element": "Dark",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Grim's harp",
+			"Crit type": "Big",
+			"Element": "Wind",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Lumi's bow",
+			"Crit type": "Med",
+			"Element": "Light",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Lumi's spear",
+			"Crit type": "Big",
+			"Element": "Light",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Rise's dagger",
+			"Crit type": "Med",
+			"Element": "Water",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Ancient Auberon",
+			"Crit type": "Med",
+			"Element": "Water",
+			"Maximum skill level": "15"
+		}
+	],
+	"Primal": [
+		{
+			"Name": "Esche Saks",
+			"Crit type": "Med",
+			"Element": "Fire",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Taisai",
+			"Crit type": "Big",
+			"Element": "Water",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Galileil",
+			"Crit type": "Med",
+			"Element": "Water",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Indra's Edge",
+			"Crit type": "Med",
+			"Element": "Wind",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "Elefant's dirt weapon",
+			"Crit type": "Big",
+			"Element": "Earth",
+			"Maximum skill level": "15"
+		},
+		{
+			"Name": "GK's weapon",
+			"Crit type": "Big",
+			"Element": "Earth",
+			"Maximum skill level": "10"
+		},
+		{
+			"Name": "Auberon",
+			"Crit type": "Med",
+			"Element": "Water",
+			"Maximum skill level": "15"
+		}
+	]
+}
